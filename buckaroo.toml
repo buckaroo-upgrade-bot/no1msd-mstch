@@ -1,0 +1,5 @@
+targets = [ "//:mstch" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-variant"
+version = "branch=master"

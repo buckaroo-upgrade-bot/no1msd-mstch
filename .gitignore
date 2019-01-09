@@ -1,2 +1,8 @@
 .idea
 build*
+.buckd
+buck-out
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
+buckaroo-linux
