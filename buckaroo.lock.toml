@@ -6,7 +6,7 @@ target = "//:variant"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "fc4d65435c49b5b4fbbf0d4867ee8f69bfd42ef1"
+revision = "417f80abf86251b29609a9747dae7756236699aa"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
@@ -54,7 +54,7 @@ revision = "788503e2365554d1860c6d2043999e3430d1f7a5"
 
 [lock."github.com/buckaroo-pm/boost-type_index"]
 versions = [ "branch=master" ]
-revision = "a8183e0bdcaafdda1183c0279137acadcb5b4466"
+revision = "e5d869f860393e8744ea34c70456d5d6dde1c308"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
@@ -66,4 +66,4 @@ revision = "57aa216434800315c9cd2664169e444e3070a677"
 
 [lock."github.com/buckaroo-pm/boost-variant"]
 versions = [ "branch=master" ]
-revision = "f95029191ed33a6370b690da81df903dc7db4cb1"
+revision = "949b6a0e4595c817bbe23f5dab2f85b16b547bf1"
